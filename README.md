@@ -1,4 +1,4 @@
-# Exam Secure
+# ONLINE EXAM SYSTEM
 Exam Secure is a secure online examination system with real-time face detection–based proctoring. It monitors candidate presence, detects multiple faces or absence, logs violations, and ensures fair, automated, and reliable remote examinations.
 ## 📌 Overview
 A secure, time-bound online examination platform that allows teachers to create MCQ-based tests and monitor them in real time.  
